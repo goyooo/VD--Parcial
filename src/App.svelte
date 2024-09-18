@@ -50,6 +50,12 @@
   <div class="flourish-embed flourish-chart" data-src="visualisation/19448458"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/19448458/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
 </div>
 
+<div class="footer">
+  <p class="name"> Juan Martin Goyeneche</p>
+  <h1>cfkrf</h1>
+
+
+</div>
 
 <style>
   .title{
