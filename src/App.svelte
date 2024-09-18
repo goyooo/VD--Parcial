@@ -1,12 +1,15 @@
 <script>
     import * as d3 from "d3"
   import Waffles from "./lib/Waffles.svelte"
-
+  import image3 from './images/huevo.png';
   let numbers = [21, 33, 42, 54, 63, 71, 77, 84, 92, 98]
   let numbers1 = [23, 35, 45, 56, 50, 43, 38, 32, 28, 25]
   const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 </script>
+<img src={image3}
+         alt=''
+         >
 
 <div class="header">
   <h2> El Legado de la Prevención</h2>
