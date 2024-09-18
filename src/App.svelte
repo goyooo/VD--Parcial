@@ -33,7 +33,7 @@
           {#each d3.range(0, 100) as number}
             {#if number < n}
               <div class="cuad lleno">
-                <img class="buevito" src="./src/images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
+                <img class="buevito" src="./images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
               </div>
             {:else}
               <div class="cuad vacio"></div>
