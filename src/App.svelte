@@ -33,7 +33,7 @@ const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
         {#each d3.range(0, 100) as number}
           {#if number < n}
             <div class="cuad lleno">
-              <img class="buevito" src="./public/images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
+              <img class="buevito" src="./src/images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
             </div>
           {:else}
             <div class="cuad vacio"></div>
@@ -67,7 +67,7 @@ const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
         {#each d3.range(0, 100) as number}
           {#if number < n}
             <div class="cuad lleno">
-              <img class="buevito" src="./public/images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
+              <img class="buevito" src="./src/images/huevo.png" alt="buevito" style="transform: rotate(180deg);">
             </div>
           {:else}
             <div class="cuad vacio"></div>
