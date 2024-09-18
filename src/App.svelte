@@ -1,12 +1,10 @@
 <script>
   import * as d3 from "d3"
-import image3 from './images/huevo.png';
 let numbers = [21, 33, 42, 54, 63, 71, 77, 84, 92, 98]
 let numbers1 = [23, 35, 45, 56, 50, 43, 38, 32, 28, 25]
 const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 </script>
-<img src={image3} alt=''>
 
 <div class="header">
 <h2> El Legado de la Prevención</h2>
@@ -90,12 +88,18 @@ const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 <div class="footer">
 <p class="name"> Juan Martin Goyeneche</p>
-<h1>cfkrf</h1>
+
 
 
 </div>
 
 <style>
+  .footer {
+    color:silver;
+    background-color: chocolate;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+}
  .cant {
   text-align: center;
   color:#c0975a;
