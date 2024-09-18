@@ -1,8 +1,10 @@
 <script>
     import * as d3 from "d3"
   const years = [2014 , 2015 , 2016 , 2017 , 2018 , 2019 , 2020 , 2021 , 2022 , 2023 ]
+  import image3 from './images/huevo.png';
   export let numbers = []
 </script>
+<img src={image3} alt=''>
 
 <div class="waffles_container">
 
