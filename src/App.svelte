@@ -7,15 +7,14 @@
   const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
 
 </script>
-<img src={image3}
-         alt=''
-         >
+<img src={image3} alt='' >
 
 <div class="header">
   <h2> El Legado de la Prevención</h2>
   <h4>La crisis de la gripe aviar en 2017 definió el destino de dos familias en su búsqueda por la victoria</h4>
 </div>
- <div class="maples">
+
+<div class="maples">
 
   <div class="blockazo1">
     <h3 class="title">Chapaleofú</h3>
@@ -82,6 +81,7 @@
     
       {/each}
     </div>
+  </div>
 </div>
 
 <p class="titulo-de-graf"> Otras formas de ver los datos</p>
