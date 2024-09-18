@@ -155,7 +155,7 @@ font-family: 'Trebuchet MS';
 .graficos-f {
   display: flex;
   margin-bottom: 0%;
-  margin-top: 5%
+  margin-top: 5%;
 }
 
 .flourish-embed  {
@@ -179,7 +179,7 @@ font-family: 'Trebuchet MS';
   font-family:'Trebuchet MS';
   font-size: 27px;
   color: #c79d6b;
-  margin-bottom: 0%   
+  margin-bottom: 0%;   
 }
 
 .maples {
